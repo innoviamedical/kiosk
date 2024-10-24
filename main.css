@@ -87,3 +87,12 @@ a.fourk {
 a.fourk:hover {
     background: rgb(43, 173, 54);
 }
+
+a.google {
+    background: rgb(81, 8, 126);
+    color: #fff;
+    border-color: rgb(63, 13, 94);
+}
+a.google:hover {
+    background: rgb(108, 11, 169);
+}
