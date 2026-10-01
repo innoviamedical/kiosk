@@ -96,3 +96,12 @@ a.google {
 a.google:hover {
     background: rgb(108, 11, 169);
 }
+
+a.survey {
+    background: rgb(255, 165, 0);
+    color: #fff;
+    border-color: rgb(255, 145, 0);
+}
+a.survey:hover {
+    background: rgb(255, 180, 0);
+}
